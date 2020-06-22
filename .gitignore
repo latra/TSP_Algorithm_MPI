@@ -1,0 +1,8 @@
+.vscode
+*.sh
+*.o
+.DS_Store
+Out/
+Solucion/
+EjemploCiudades/*.sol
+EjemploCiudades/tsp40.*.sol
